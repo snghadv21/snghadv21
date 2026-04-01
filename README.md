@@ -45,7 +45,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=snghadv21&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=snghadv21&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"
     alt="snghadv21" />
 </p>
 
